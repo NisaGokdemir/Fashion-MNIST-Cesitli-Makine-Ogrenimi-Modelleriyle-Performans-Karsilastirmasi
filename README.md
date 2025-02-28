@@ -12,7 +12,7 @@ Fashion MNIST veri seti, eğitim ve test seti olarak ikiye ayrılmıştır:
 - **Test veri seti boyutu:** (10000, 28, 28)
 - **Görüntü boyutu:** 28 x 28
 
-İlk 10 örnek görselleştirilmiştir:
+İlk 10 örnek görselleştirilmiştir :
 
 ![Fashion MNIST Examples](fashion_mnist_examples.png)
 
